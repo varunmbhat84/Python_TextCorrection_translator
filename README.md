@@ -1,7 +1,3 @@
 
-
-Language translator using python, translate any text in any language using python
-
-Python makes it easy for you to convert any text in any language into any destination language.
-
-Instalation pip install googletrans==3.1.0a0 (make sure you add 3.10a0 as it might give errors without it)
+Correcting wrongly spelled words and translating into another language using TextBlob
+Tech Stack: nlp,text-blob,ml
